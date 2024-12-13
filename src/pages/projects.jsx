@@ -9,7 +9,7 @@ const projects = [
   {
     name: '博客',
     description:
-      '随手写写',
+      '随手写写, 技术、生活',
     link: { href: 'https://blog.dvlin.com'},
     logo: avatar
   },
